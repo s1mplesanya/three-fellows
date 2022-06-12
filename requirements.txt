@@ -1,0 +1,4 @@
+schedule==1.1.0
+# mysql-connector-python==8.0.28
+psycopg2-binary==2.9.3
+pyTelegramBotAPI==4.4.0
