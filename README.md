@@ -19,5 +19,5 @@ You choose a daily task for yourself and you must complete it every day and mark
 - telebot library
 - PostgreSQL database
 - Heroku server
-- threads
+- threading
 - schedule library to update every midnight
