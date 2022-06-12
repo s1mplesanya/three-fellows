@@ -10,6 +10,7 @@
 - потоки (threading)
 - библиотека schedule для обновления каждую полночь
 
+<https://t.me/ThreeFellows_bot>
 
 -------------------------------------
 
@@ -21,3 +22,5 @@ You choose a daily task for yourself and you must complete it every day and mark
 - Heroku server
 - threading
 - schedule library to update every midnight
+
+<https://t.me/ThreeFellows_bot>
